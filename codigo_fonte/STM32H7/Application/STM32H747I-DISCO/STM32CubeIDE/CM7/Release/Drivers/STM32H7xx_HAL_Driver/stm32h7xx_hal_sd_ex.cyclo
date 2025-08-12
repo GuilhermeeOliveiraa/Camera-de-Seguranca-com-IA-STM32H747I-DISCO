@@ -1,0 +1,4 @@
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd_ex.c:83:19:HAL_SDEx_ConfigDMAMultiBuffer	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd_ex.c:109:19:HAL_SDEx_ReadBlocksDMAMultiBuffer	8
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd_ex.c:195:19:HAL_SDEx_WriteBlocksDMAMultiBuffer	8
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Drivers/STM32H7xx_HAL_Driver/Src/stm32h7xx_hal_sd_ex.c:279:19:HAL_SDEx_ChangeDMABuffer	2

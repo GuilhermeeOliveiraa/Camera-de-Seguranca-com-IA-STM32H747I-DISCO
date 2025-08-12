@@ -1,0 +1,4 @@
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network_data.c:48:11:ai_network_data_activations_buffer_get	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network_data.c:66:11:ai_network_data_weights_buffer_get	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network_data.c:84:11:ai_network_data_weights_get	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network_data.c:97:9:ai_network_data_params_get	2

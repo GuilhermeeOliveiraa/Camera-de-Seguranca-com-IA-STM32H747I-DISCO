@@ -1,0 +1,14 @@
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:439:13:DCMI_MDMAError	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:418:13:DCMI_DMAError	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:364:13:DCMI_DMALineXferCplt	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:384:13:DCMI_MDMAFrameXferCplt	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:43:6:Camera_GetNextReadyFrame	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:53:6:Camera_StartNewFrameAcquisition	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:66:6:Camera_Init	8
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:176:6:Camera_Set_MirrorFlip	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:189:6:Camera_Enable_TestBar_Mode	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:219:6:Camera_Disable_TestBar_Mode	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:252:6:BSP_CAMERA_FrameEventCallback	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:270:6:BSP_CAMERA_VsyncEventCallback	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:282:6:BSP_CAMERA_ErrorCallback	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/STM32H747I-DISCO/Src/CM7/app_camera.c:301:19:HAL_DCMIEx_Start_DMA_MDMA	3

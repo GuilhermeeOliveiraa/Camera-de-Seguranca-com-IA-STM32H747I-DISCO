@@ -1,0 +1,13 @@
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:566:14:umm_malloc_core	11
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:486:13:umm_free_core	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:137:7:umm_info	12
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:265:8:umm_free_heap_size	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:270:8:umm_max_free_block_size	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:275:5:umm_usage_metric	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:281:5:umm_fragmentation_metric	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:424:6:umm_uninit	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:431:6:umm_init	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:538:6:umm_free	5
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:676:7:umm_malloc	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:710:7:umm_realloc	21
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Middlewares/ST/STM32_ImageProcessing_Library/Src/umm_malloc.c:905:7:umm_calloc	4

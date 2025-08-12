@@ -1,0 +1,12 @@
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:6846:9:network_configure_weights	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:6521:9:network_configure_activations	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7187:9:ai_network_get_report	3
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7234:10:ai_network_get_error	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7241:10:ai_network_create	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7252:10:ai_network_create_and_init	12
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7287:12:ai_network_inputs_get	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7298:12:ai_network_outputs_get	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7309:11:ai_network_destroy	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7316:9:ai_network_init	2
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7333:8:ai_network_run	1
+C:/Users/joaoo/OneDrive/Documentos/STM32/stm32ai-modelzoo-services/application_code/object_detection/STM32H7/Application/Network/Src/network.c:7341:8:ai_network_forward	1
