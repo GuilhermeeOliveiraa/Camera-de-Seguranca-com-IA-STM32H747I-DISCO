@@ -5,11 +5,6 @@ Implementa um sistema embarcado de monitoramento com inteligência artificial ut
 ## Objetivo
 Capturar imagens pela câmera integrada, executar inferência local para detectar eventos (intrusão, pessoas, etc.) e registrar/alertar conforme necessário.
 
-## Hardware
-- Placa: STM32H747I-DISCO (Cortex-M7 + Cortex-M4)
-- Câmera DCMI integrada (OV5640)
-- LCD integrado para exibição de prévias e status (B-LCD40-DSI1)
-
 ## Funcionalidades
 - Captura de imagem via DCMI + DMA
 - Inferência no core M7 com modelo quantizado via STM32Cube.AI
@@ -24,12 +19,16 @@ Este guia explica como **implantar um modelo pré-treinado** ou **usar seu próp
 ## 1. Pré-requisitos
 
 ### **Hardware**
-- Placa **STM32H747I-DISCO**
-- Módulo de câmera **B-CAMS-OMV**
+- Placa **STM32H747I-DISCO** (Cortex-M7 + Cortex-M4)
+- Câmera DCMI integrada (OV5640)
+- LCD integrado para exibição de prévias e status (B-LCD40-DSI1)
 
 ### **Software**
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 - [STM32Cube.AI](https://www.st.com/en/embedded-software/x-cube-ai.html) *(ou usar **STM32 Developer Cloud**)*
+- [STM32 Model Zoo](https://github.com/STMicroelectronics/stm32-modelzoo) *(coleção de modelos pré-treinados)*
+- [STM32 Model Zoo Services](https://stm32ai-cs.st.com/) *(serviço online para treinamento, avaliação e quantização)*
+
 
 ### **Modelo**
 - Formato **TFLite** quantizado (int8)  
