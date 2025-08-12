@@ -7,9 +7,8 @@ Capturar imagens pela câmera integrada, executar inferência local para detecta
 
 ## Hardware
 - Placa: STM32H747I-DISCO (Cortex-M7 + Cortex-M4)
-- Câmera DCMI integrada (OV9655 ou compatível)
-- LCD integrado para exibição de prévias e status
-- Cartão SD para armazenamento local
+- Câmera DCMI integrada (OV5640)
+- LCD integrado para exibição de prévias e status (B-LCD40-DSI1)
 
 ## Funcionalidades
 - Captura de imagem via DCMI + DMA
